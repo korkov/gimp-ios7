@@ -4,6 +4,8 @@ gimp-ios7
 iOS7 palette and gradients for GIMP.
 This package uses colors from http://ios7colors.com/
 
+[Download ZIP archive](https://dl.dropboxusercontent.com/u/44394084/gimp-ios7.zip)
+
 
 ## Installation
 1. Open GIMP
